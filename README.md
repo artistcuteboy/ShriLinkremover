@@ -11,10 +11,9 @@ Lightweight: Runs efficiently on free hosting platforms.
 # Live Demo & Support
 Experience the bot or get help before deploying your own:
 
-🎮 Live Demo Bot: @JoinHiderzBot
-
-🆘 Support Channel: @Shribots
 [![Shribots Support](https://img.shields.io/badge/🆘_Support_Channel-Shribots-blue?style=for-the-badge&logo=telegram)](https://t.me/shribots)
+
+[![Demo Bot](https://img.shields.io/badge/_Support_Channel-Shribots-blue?style=for-the-badge&logo=telegram)](https://t.me/JoinHiderzBot)
 
 ## Free Deployment on Render
 You can host this bot for free using Render's web services. It's perfect for testing and hobby projects.
