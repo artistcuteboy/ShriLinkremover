@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: join-hider-bot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: OWNER_ID
+        sync: false
+      - key: SUPPORT_CHANNEL
+        value: "@idxhelp"
+      - key: ANIMATION_URL
+        value: "https://files.catbox.moe/zvv7fa.gif"
