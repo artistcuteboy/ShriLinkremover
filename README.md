@@ -1,7 +1,7 @@
-</h2>
-
-<p align="center">
-  <img src="https://files.catbox.moe/836l2k.jpg">
+<div align="center">
+  <img src="https://files.catbox.moe/3jv9r8.png" alt="Join Hider Bot Interface" 
+       style="max-width: 80%; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
 
 # 𝙅𝙤𝙞𝙣 𝙃𝙞𝙙𝙚𝙧 𝘽𝙤𝙩 𝙗𝙮 𝙎𝙝𝙧𝙞𝙗𝙤𝙩𝙨 ✨
 Keep your Telegram groups clutter-free by automatically removing join and leave notifications. A sleek, easy-to-use solution for admins who want a clean chat experience.
