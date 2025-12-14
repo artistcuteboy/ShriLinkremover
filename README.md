@@ -1,7 +1,9 @@
-## 🎬 Bot in Action
-<div align="center">
-  <img src="https://files.catbox.moe/skjf84.webp" alt="Join Hider Bot Demo" style="max-width: 100%; height: auto; border-radius: 8px;" />
-</div>
+
+
+</h2>
+
+<p align="center">
+  <img src="https://files.catbox.moe/skjf84.webp">
 
 <p align="center"><i>Join Hider Bot seamlessly removing notifications in a group.</i></p>
 
