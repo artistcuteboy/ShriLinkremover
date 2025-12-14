@@ -13,11 +13,9 @@ Experience the bot or get help before deploying your own:
 
 [![Shribots Support](https://img.shields.io/badge/_Support_Channel-Shribots-blue?style=for-the-badge&logo=telegram)](https://t.me/shribots)
 
-[![Demo Bot](https://img.shields.io/badge/_Demo_bot-Shribots-blue?style=for-the-badge&logo=telegram)](https://t.me/JoinHiderzBot)
+[![Demo Bot](https://img.shields.io/badge/_Demo-bot-blue?style=for-the-badge&logo=telegram)](https://t.me/JoinHiderzBot)
 
-[![Free deploy](https://img.shields.io/badge/_Free_deploy-Shribots-purple?style=for-the-badge&logo=render)](Render
-https://render.com
-Render)
+[![Free deploy](https://img.shields.io/badge/_Render-Free_deploy-purple?style=for-the-badge&logo=render)](https://render.com).
 
 ## Free Deployment on Render 🎉
 You can host this bot for free using Render's web services. It's perfect for testing and hobby projects.
