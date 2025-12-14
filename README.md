@@ -20,6 +20,14 @@ Experience the bot or get help before deploying your own:
 ## Free Deployment on Render 🎉
 You can host this bot for free using Render's web services. It's perfect for testing and hobby projects.
 
+# env example 
+```
+BOT_TOKEN = 
+OWNER_ID = 
+SUPPORT_CHANNEL = 
+ANIMATION_URL =
+```
+
 # Install dependencies
 ```bash
 pip install python-telegram-bot[job-queue]==20.7 flask==3.0.0 requests==2.31.0
