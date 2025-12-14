@@ -1,9 +1,11 @@
 <div align="center">
-  <video width="600" autoplay loop muted playsinline>
-    <source src="https://files.catbox.moe/zvv7fa.gif" type="video/mp4">
-    Your browser doesn't support HTML5 video.
-  </video>
+  <img src="https://files.catbox.moe/zvv7fa.gif" alt="Join Hider Bot Demo" 
+       style="object-fit: contain; max-height: 500px; width: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
+
+<p align="center">
+  <em>Watch the Join Hider Bot automatically remove join/leave notifications in real-time!</em>
+</p>
 
 # 𝙅𝙤𝙞𝙣 𝙃𝙞𝙙𝙚𝙧 𝘽𝙤𝙩 𝙗𝙮 𝙎𝙝𝙧𝙞𝙗𝙤𝙩𝙨 ✨
 Keep your Telegram groups clutter-free by automatically removing join and leave notifications. A sleek, easy-to-use solution for admins who want a clean chat experience.
