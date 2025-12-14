@@ -1,6 +1,8 @@
-https://files.catbox.moe/zvv7fa.gif
 <div align="center">
-  <img src="https://files.catbox.moe/zvv7fa.gif" alt="Join Hider Bot Demo" width="600">
+  <video width="600" autoplay loop muted playsinline>
+    <source src="https://files.catbox.moe/zvv7fa.gif" type="video/mp4">
+    Your browser doesn't support HTML5 video.
+  </video>
 </div>
 
 # 𝙅𝙤𝙞𝙣 𝙃𝙞𝙙𝙚𝙧 𝘽𝙤𝙩 𝙗𝙮 𝙎𝙝𝙧𝙞𝙗𝙤𝙩𝙨 ✨
