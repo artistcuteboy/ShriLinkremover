@@ -15,7 +15,7 @@ Experience the bot or get help before deploying your own:
 
 🆘 Support Channel: @Shribots
 
-🛠️ Free Deployment on Render
+## Free Deployment on Render
 You can host this bot for free using Render's web services. It's perfect for testing and hobby projects.
 
 # Install dependencies
