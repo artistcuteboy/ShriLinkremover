@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/3jv9r8.png" alt="Join Hider Bot Demo" width="600">
+  <img src="https://files.catbox.moe/v7jo0e.jpg" alt="Join Hider Bot Demo" width="600">
 </div>
 
 # 𝙅𝙤𝙞𝙣 𝙃𝙞𝙙𝙚𝙧 𝘽𝙤𝙩 𝙗𝙮 𝙎𝙝𝙧𝙞𝙗𝙤𝙩𝙨 ✨
